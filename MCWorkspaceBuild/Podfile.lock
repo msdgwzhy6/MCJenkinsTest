@@ -1,0 +1,10 @@
+PODS:
+  - FIR.im (1.2.0)
+
+DEPENDENCIES:
+  - FIR.im (~> 1.2.0)
+
+SPEC CHECKSUMS:
+  FIR.im: e5c7367a35adcd796f30f176f059356c330c0c2e
+
+COCOAPODS: 0.37.2
